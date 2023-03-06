@@ -90,7 +90,7 @@ alert('Something went wrong fetching popular TV shows')
         <div className="row">
           <div className="col-4">
             <Logo
-              title="TV by Tom"
+              title="Tom's on TV!"
               subtitle="What's on tonight?"
               image={logoImg}
             />
