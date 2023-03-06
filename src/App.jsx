@@ -90,8 +90,8 @@ alert('Something went wrong fetching popular TV shows')
         <div className="row">
           <div className="col-4">
             <Logo
-              title="Watowatch"
-              subtitle="Find a show you may like"
+              title="TV by Tom"
+              subtitle="What's on tonight?"
               image={logoImg}
             />
           </div>
